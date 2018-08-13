@@ -1,13 +1,13 @@
 {
-  "name": "redredisearch",
+  "name": "nachlass",
   "version": "0.0.1",
-  "description": "Redis search for node.js powered by the RediSearch module",
+  "description": "Plain text processor for node.js powered by the RediSearch module",
   "keywords": [
     "redis",
     "search",
     "redisearch"
   ],
-  "author": "Kyle Davis",
+  "author": "Diego Correa T.",
   "dependencies": {
     "redis": "^2.7.1"
   },
@@ -22,6 +22,6 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stockholmux/redredisearch"
+    "url": "https://github.com/Ikkuna/nachlass"
   }
 }
