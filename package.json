@@ -1,6 +1,6 @@
 {
   "name": "nachlass",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Plain text processor for node.js powered by the RediSearch module",
   "keywords": [
     "redis",
